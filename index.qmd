@@ -1,0 +1,7 @@
+---
+title: "Reproducibility in Transportation Research: A Hands-on Tutorial 2.0 – Reproducible Manuscripts"
+---
+
+# Welcome
+
+Welcome to the official site of the **Reproducibility in Transportation Research Tutorial 2.0** at ITSC 2025. This half-day tutorial will provide participants with hands-on training on how to make their research reproducible using modern tools and practices.

@@ -1,0 +1,17 @@
+---
+title: "About"
+format: html
+---
+
+## Motivation and Objectives
+
+This tutorial builds on the success of the 2024 edition to focus on making reproducible manuscripts. Participants will learn:
+
+-   Fundamental concepts of Reproducible Research (RR)
+-   Tools and software to facilitate reproducibility
+-   Steps to make manuscripts fully reproducible
+-   How to foster a community around RR in ITS
+
+## Relevance
+
+Given the interdisciplinary and data-driven nature of Intelligent Transportation Systems (ITS), reproducibility ensures scientific credibility and real-world impact.

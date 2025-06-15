@@ -1,0 +1,48 @@
+---
+title: "Organizers"
+format: html
+---
+
+## Tutorial Team
+
+### ![Zuduo Zheng](https://civil.uq.edu.au/files/123456/zuduo-zheng.jpg)
+
+**Zuduo Zheng**\
+Professor & Deputy TMR TAP Chair, University of Queensland\
+[Profile](https://civil.uq.edu.au/profile/857/zuduo-zheng):contentReference[oaicite:10]{index="10"}
+
+### ![David Levinson](https://upload.wikimedia.org/wikipedia/commons/3/3f/2024-04-15_Prof._David_Levinson%2C_University_of_Sydney.jpg)
+
+**David Levinson**\
+Professor of Transport, University of Sydney\
+[Profile](https://transportist.org/):contentReference[oaicite:13]{index="13"}
+
+### ![Xuesong Zhou](https://search.asu.edu/sites/default/files/styles/asu_profile/public/xuesong_zhou.jpg)
+
+**Xuesong Zhou**\
+Professor, Arizona State University\
+[Profile](https://search.asu.edu/profile/2182101):contentReference[oaicite:16]{index="16"}
+
+### ![Saeed Mohammadian](https://about.uq.edu.au/files/123456/saeed-mohammadian.jpg)
+
+**Saeed Mohammadian**\
+Postdoctoral Research Fellow, University of Queensland\
+[Profile](https://about.uq.edu.au/experts/31711):contentReference[oaicite:19]{index="19"}
+
+### ![Cathy Wu](https://wucathy.com/images/cathy-wu.jpg)
+
+**Cathy Wu**\
+Associate Professor, MIT\
+[Profile](https://wucathy.com/):contentReference[oaicite:22]{index="22"}
+
+### ![Bidisha Ghosh](https://www.tcd.ie/civileng/people/academic-staff-/bghosh/bidisha-ghosh.jpg)
+
+**Bidisha Ghosh**\
+Associate Professor, Trinity College Dublin\
+[Profile](https://www.tcd.ie/civileng/people/academic-staff-/bghosh/):contentReference[oaicite:25]{index="25"}
+
+### ![Irene Martínez](https://www.tudelft.nl/en/staff/i.martinez/irene-martinez.jpg)
+
+**Irene Martínez**\
+Assistant Professor, TU Delft\
+[Profile](https://www.tudelft.nl/en/staff/i.martinez/):contentReference[oaicite:28]{index="28"}
