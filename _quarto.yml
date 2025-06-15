@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Reproducibility in Transportation Research: A Hands-on Tutorial 2.0 – Reproducible Manuscripts"
