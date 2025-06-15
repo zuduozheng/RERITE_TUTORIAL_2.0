@@ -5,14 +5,29 @@ format: html
 
 ## Tutorial Session Plan
 
-**Session 1 (9:00am - 10:00am):** Introduction to Reproducible Research\
-- Lecture and activity\
-**Break (10:00am - 10:15am)**
+[***Session 1: Introduction to Reproducible Research***]{.underline} ***(9:00am-10:00am)\
+*** **Lecture 1:** **Introduction to reproducible research (30 mins; 2 talks and each for 15 mins)\
+Activity 1: Is your research reproducible? (15 mins)**\
+**Follow-up of hands-on activity (15 mins)**
 
-**Session 2 (10:15am - 11:15am):** Tools for collaboration\
-- Lecture and computer exercise\
-**Break (11:15am - 11:30am)**
+***COFFEE BREAK (10:00am-10:15am)***
 
-**Session 3 (11:30am - 12:45pm):** Making manuscripts reproducible\
-- Lecture, exercise, and Q&A\
-**Lunch (Optional, 12:45pm - 1:30pm)**
+[***Session 2: Reproducibility for research collaboration***]{.underline} ***(10:15am-11:15am)\
+*** **Lecture 2:** **Tools for practicing reproducible research collaboration (30mins)**\
+**Activity 2: Computer exercise (30 minutes)**
+
+***COFFEE BREAK (11:15am-11:30am)***
+
+[***Session 3: Reproducibility for publication: How to make your next manuscript reproducible?***]{.underline} ***(11:30am-12:45pm)***
+
+**Lecture 3:** **Tools for making reproducible manuscripts (30mins)**\
+**Activity 2: Computer exercise (30 minutes)\
+Q&A and Wrap-Up (15 minutes)**
+
+***OPTIONAL LUNCH (12:45pm-1:30pm):*** Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.
+
+**Expected Participation**: We anticipate engaging 30-50 participants including researchers, professionals, and students.
+
+**Equipment Requirements**: Participants should bring laptops to participate in hands-on sessions. Installation guides for the required software will be shared ahead of the workshop. Standard seminar room with a projector, screen, microphone, and internet access is required.
+
+**Contact person:** Zuduo Zheng ([zuduo.zheng\@uq.edu.edu](mailto:zuduo.zheng@uq.edu.edu))

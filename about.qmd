@@ -5,13 +5,40 @@ format: html
 
 ## Motivation and Objectives
 
-This tutorial builds on the success of the 2024 edition to focus on making reproducible manuscripts. Participants will learn:
+This tutorial aims to build on the success of the first tutorial on reproducibility in transportation research (<https://rrintransportation.github.io/itsc24-rr-tutorial/>) we organised at ITSC 2024 in Canada, with a focus on **making reproducible manuscripts**.
 
--   Fundamental concepts of Reproducible Research (RR)
--   Tools and software to facilitate reproducibility
--   Steps to make manuscripts fully reproducible
--   How to foster a community around RR in ITS
+Reproducibility refers to the conception that scientific results can be reliably regenerated through repeated application of the same data, methods, and analysis pipeline by independent researchers. Reproducibility is a cornerstone of scientific research, providing the foundation for validating results and advancing knowledge. In research fields where computation-based scientific publication is pervasive, a credibility crisis has been warned\]. Reproducible Research (RR) is gaining extensive attention in various fields, such as remote sensing, medicine, and data science, to ensure the validity and reliability of scientific findings.
 
-## Relevance
+In the field of traffic and transportation, Intelligent Transportation Systems (ITS) represent the most computationally intensive, fast-growing area of research with significant implications of outcomes for the general population. In ITS, the rapid evolution of technologies and methodologies emphasized the need for reproducible research practices. Reproducibility can refer to computational reproducibility, ensuring that the same data and analysis steps produce consistent results. However, when it is infeasible to replicate an entire scientific study, achieving reproducibility sets a minimum standard of scientific rigor by allowing others to validate and build upon the findings. With ITS being inherently interdisciplinary and data-driven, reproducibility forms the backbone for credible, reliable research outputs.
 
-Given the interdisciplinary and data-driven nature of Intelligent Transportation Systems (ITS), reproducibility ensures scientific credibility and real-world impact.
+Give the growing importance of these issues, this tutorial revolves around reproducibility, with the objectives of:
+
+●      An introduction to the fundamental concepts and importance of RR to the domain of ITS
+
+●      Provide hands-on training in the use of tools and software that facilitate reproducibility
+
+●      Guide researchers on how to make their next manuscript 100% reproducible
+
+●      Encourage collaboration among tutorial participants and the broader ITS community to foster a community that values and practices reproducible research
+
+## Relevance to the ITS community & IEEE-ITSC2025: 
+
+As indicated in the preceding section, repeatability, replicability, and reproducibility are considered the gold standards in scientific research. In the wake of the reproducibility crisis, several disciplines of scientific research have energetically embraced the challenge by increasing awareness, adopting detailed protocols and training in rigor and reproducibility. Now is an exciting and pivotal time for the ITSC community to actively engage with and champion RR in ITS research. This tutorial provides practical tools and best practices to make reproducibility a standard in ITS research, helping to increase its credibility and real-world impact.
+
+## Intended Audience:
+
+This tutorial is primarily designed for transportation researchers, practitioners, and students who seek to deepen their understanding and application of reproducibility in their work. As ITS is inherently interdisciplinary and reliant on robust data analysis, ensuring reproducibility is crucial for generating trustworthy and effective research outcomes.
+
+The intended audience includes a wide range of participants actively involved in carrying out or managing ITS research. We aim to introduce the fundamentals and importance of Reproducibility and Replicability to newcomers, while also enhancing the competencies of those familiar with these concepts. Whether you are a beginner eager to learn and implement basic reproducibility workflows or an experienced researcher looking to refine your skills with advanced techniques and tools, this tutorial is structured to meet your needs.
+
+## Benefits to Participants:
+
+By attending this tutorial, participants will:
+
+●      Gain a deeper understanding of reproducibility concepts and challenges in transportation research.
+
+●      Learn practical strategies and best practices for improving reproducibility in their own research projects.
+
+●      Acquire hands-on experience with tools and techniques for making their next manuscript reproducible.
+
+●      Connect with peers and experts in the field to exchange ideas and experiences related to reproducible research.
