@@ -21,7 +21,7 @@ Give the growing importance of these issues, this tutorial revolves around repro
 
 ●      Encourage collaboration among tutorial participants and the broader ITS community to foster a community that values and practices reproducible research
 
-## Relevance to the ITS community & IEEE-ITSC2025: 
+## Relevance to the ITS community & IEEE-ITSC2025:
 
 As indicated in the preceding section, repeatability, replicability, and reproducibility are considered the gold standards in scientific research. In the wake of the reproducibility crisis, several disciplines of scientific research have energetically embraced the challenge by increasing awareness, adopting detailed protocols and training in rigor and reproducibility. Now is an exciting and pivotal time for the ITSC community to actively engage with and champion RR in ITS research. This tutorial provides practical tools and best practices to make reproducibility a standard in ITS research, helping to increase its credibility and real-world impact.
 
