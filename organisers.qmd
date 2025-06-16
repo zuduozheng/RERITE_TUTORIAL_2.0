@@ -8,8 +8,6 @@ title: "Organizers"
 format: html
 ---
 
-## Organizers
-
 ### <img src="Zheng.jpeg" width="150" style="border-radius: 50%;">
 **[Zuduo Zheng](https://civil.uq.edu.au/profile/857/zuduo-zheng)**  
 Professor, University of Queensland
