@@ -5,29 +5,47 @@ format: html
 
 ## Tutorial Session Plan
 
-[***Session 1: Introduction to Reproducible Research***]{.underline} ***(9:00am-10:00am)\
-*** **Lecture 1:** **Introduction to reproducible research (30 mins; 2 talks and each for 15 mins)\
-Activity 1: Is your research reproducible? (15 mins)**\
-**Follow-up of hands-on activity (15 mins)**
+#### Details
 
-***COFFEE BREAK (10:00am-10:15am)***
+-   When: 8:30-12:30 (Brisbane local time) \| Tuesday, November 18, 2024 (<https://ieee-itsc.org/2025/program/workshops-and-tutorials/>)
 
-[***Session 2: Reproducibility for research collaboration***]{.underline} ***(10:15am-11:15am)\
-*** **Lecture 2:** **Tools for practicing reproducible research collaboration (30mins)**\
-**Activity 2: Computer exercise (30 minutes)**
+-   Where: Room Gold Coast \| the *Star Grand* \| *Broadbeach* \| *Gold Coast*.
 
-***COFFEE BREAK (11:15am-11:30am)***
+-   👉 Participants should **bring laptops** to participate in hands-on sessions **with installed required software**, including
 
-[***Session 3: Reproducibility for publication: How to make your next manuscript reproducible?***]{.underline} ***(11:30am-12:45pm)***
+    -   [RStudio](https://posit.co/download/rstudio-desktop/) (by default, [Quarto](https://quarto.org/) will be automatically installed when you install the latest version of RStudio)
 
-**Lecture 3:** **Tools for making reproducible manuscripts (30mins)**\
-**Activity 2: Computer exercise (30 minutes)\
-Q&A and Wrap-Up (15 minutes)**
+    -   A [Github](https://github.com/) account (see [tutorial](https://swcarpentry.github.io/git-novice/#creating-a-github-account))
 
-***OPTIONAL LUNCH (12:45pm-1:30pm):*** Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.
+    -   [Anaconda Python](https://www.anaconda.com/download/success) and Jupyter
 
-**Expected Participation**: We anticipate engaging 30-50 participants including researchers, professionals, and students.
+    -   [Overleaf](https://www.overleaf.com/)
 
-**Equipment Requirements**: Participants should bring laptops to participate in hands-on sessions. Installation guides for the required software will be shared ahead of the workshop. Standard seminar room with a projector, screen, microphone, and internet access is required.
+**Please note:** A little bit of coding experience with RStudio or Python will be more than enough for this tutorial. Even if you’ve never written a line of code in your life, don’t stress — you’ll still be able to follow along with most of the activities. This tutorial is about making your manuscript reproducible, **not about showing off your coding superpowers** (though hey, you might unlock a few along the way!).
+
+[***Opening Remarks & Pre-tutorial survey (8:30am - 8:40am)***]{.underline}
+
+[***Session 1: Introduction to Reproducible Research***]{.underline} ***(8:40am-9:40am)\
+*****Presentation 1:** Making your manuscript reproducible: an Editor’s perspective by Professor David Levinson (USYD)
+
+**Presentation 2:** Introduction to reproducible research and reproducible manuscript by Professor Zuduo Zheng (UQ)
+
+**Activity 1:** Is your most recent manuscript reproducible?\
+
+***COFFEE BREAK (9:40am-10:00am)***
+
+[***Session 2: Reproducibility for research collaboration***]{.underline} ***(10:00am-11:00am)\
+*****Presentation 3:** Tools for practicing reproducible research collaboration by Professor Zuduo Zheng & Dr Saeed Mohammadian (UQ)\
+**Activity 2:** Computer exercise
+
+***COFFEE BREAK (11:00 am-11:30am)***
+
+[***Session 3: Reproducibility for publication: How to make your next manuscript reproducible?***]{.underline} ***(11:30am-12:30 pm)***\
+**Demonstration 1:** Making reproducible manuscripts using RStudio and Quarto By Mr Hongbo Zhao (UQ)\
+**Demonstration 2:** Making reproducible manuscripts using Python, Overleaf and Code Ocean by Dr Saeed Mohammadian (UQ)\
+**Activity 3:** Make your most recent manuscript reproducible**\
+Q&A and & Post-tutorial survey**
+
+***OPTIONAL LUNCH (12:30 pm-1:30pm):*** Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.
 
 **Contact person:** Zuduo Zheng ([zuduo.zheng\@uq.edu.edu](mailto:zuduo.zheng@uq.edu.edu))
