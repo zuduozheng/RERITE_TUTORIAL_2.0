@@ -8,42 +8,59 @@ title: "Organizers"
 format: html
 ---
 
-### <img src="Zheng.jpeg" width="150" style="border-radius: 50%;">
-**[Zuduo Zheng](https://civil.uq.edu.au/profile/857/zuduo-zheng)**  
+### <img src="Zheng.jpeg" width="150" style="border-radius: 50%;"/>
+
+[**Zuduo Zheng**](https://civil.uq.edu.au/profile/857/zuduo-zheng)\
 Professor, University of Queensland
 
----
+------------------------------------------------------------------------
 
-### <img src="davidlevinson.webp" width="150" style="border-radius: 50%;">
-**[David Levinson](https://transportist.org/)**  
+### <img src="davidlevinson.webp" width="150" style="border-radius: 50%;"/>
+
+[**David Levinson**](https://transportist.org/)\
 Professor, University of Sydney
 
----
+------------------------------------------------------------------------
 
-### <img src="xzhou74.png" width="150" style="border-radius: 50%;">
-**[Xuesong Zhou](https://search.asu.edu/profile/2182101)**  
+### <img src="xzhou74.png" width="150" style="border-radius: 50%;"/>
+
+[**Xuesong Zhou**](https://search.asu.edu/profile/2182101)\
 Professor, Arizona State University
 
----
+------------------------------------------------------------------------
 
-### <img src="Mohammadian.jpeg" width="150" style="border-radius: 50%;">
-**[Saeed Mohammadian](https://about.uq.edu.au/experts/31711)**  
+### <img src="Mohammadian.jpeg" width="150" style="border-radius: 50%;"/>
+
+[**Saeed Mohammadian**](https://about.uq.edu.au/experts/31711)\
 Postdoctoral Research Fellow, University of Queensland
 
----
+------------------------------------------------------------------------
 
-### <img src="Cathy_Wu.jpg" width="150" style="border-radius: 50%;">
-**[Cathy Wu](https://wucathy.com/)**  
+### <img src="Cathy_Wu.jpg" width="150" style="border-radius: 50%;"/>
+
+[**Cathy Wu**](https://wucathy.com/)\
 Associate Professor, MIT
 
----
+------------------------------------------------------------------------
 
-### <img src="bidisha-ghosh.jpg" width="150" style="border-radius: 50%;">
-**[Bidisha Ghosh](https://www.tcd.ie/civileng/people/academic-staff-/bghosh/)**  
+### <img src="bidisha-ghosh.jpg" width="150" style="border-radius: 50%;"/>
+
+[**Bidisha Ghosh**](https://www.tcd.ie/civileng/people/academic-staff-/bghosh/)\
 Associate Professor, Trinity College Dublin
 
----
+------------------------------------------------------------------------
 
-### <img src="Martinez.webp" width="150" style="border-radius: 50%;">
-**[Irene Martínez](https://www.tudelft.nl/en/staff/i.martinez/)**  
+### <img src="Martinez.webp" width="150" style="border-radius: 50%;"/>
+
+[**Irene Martínez**](https://www.tudelft.nl/en/staff/i.martinez/)\
 Assistant Professor, TU Delft
+
+## Teaching Assistants
+
+### <img src="Hongbo.jpg" width="150" style="border-radius: 50%;"/>
+
+Mr Hongbo Zhao, University of Queensland;
+
+### <img src="Junyi.jpg" width="150" style="border-radius: 50%;"/>
+
+Mr Junyi Ji, Vanderbilt University.

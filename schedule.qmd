@@ -23,7 +23,7 @@ format: html
 
 **Please note:** A little bit of coding experience with RStudio or Python will be more than enough for this tutorial. Even if you’ve never written a line of code in your life, don’t stress — you’ll still be able to follow along with most of the activities. This tutorial is about making your manuscript reproducible, **not about showing off your coding superpowers** (though hey, you might unlock a few along the way!).
 
-[***Opening Remarks & Pre-tutorial survey (8:30am - 8:40am)***]{.underline}
+[***Opening remarks (Professor Cathy Wu, MIT) & Pre-tutorial survey (8:30am - 8:40am)***]{.underline}
 
 [***Session 1: Introduction to Reproducible Research***]{.underline} ***(8:40am-9:40am)\
 *****Presentation 1:** Making your manuscript reproducible: an Editor’s perspective by Professor David Levinson (USYD)
